@@ -1,0 +1,742 @@
+1.
+ülkenin politik sebepleri, gelecek kaygısı, güvenlik riskleri, yozlaşma, ekonomik sebeplerden ziyade başka problemlerden biriside yapılan işlerle ilgili tatmin duyulmamasıdır.
+
+örneğin türkiye'de doğru dürüst yapay zeka alanına yatırım yapan firma/girişimci yok. hep gündelik yüzlerce örneği olan yazılımlar yapılıyor ve bunların da kaliteleri çok düşük. yazılım kalite kriterleri uygulanmaması yazılımcıyı bıktırıyor. mümkün olduğunca yapılan işin çabuk bitmesi ve parasının alınması isteniyor.
+
+bu tarz durumlar yazılımcı için işi bırakma sebebi. aynı trafikteki gibi, herkes aceleci ve dikkatsiz şekilde ilerliyor. bunlar yazılımcının tatmini açısından ciddi bir motivasyon sorunu.
+
+yurtdışında bu iş yapma şekli benimsenmiyor. kalite algısı daha yüksek. bu yazılımcı için paradan ziyade yaptığı işi benimseme duygusunu oluşturuyor.
+*************
+2.
+şimdi bu arayışlar içerisinde olan ve köşeden dönmüş hatta avusturyaya haftaya mülakata gidecek biri olarak gayet net tesbitler yapabilirim
+
+1)hayat kaliteniz düşer orda herşey pahalı olayı bir şehir efsanesidir. maasınız en az iki katına cıkar alım gücünüz sabit kalır. kaldı ki saçma sapan vergiler ödeyip 1 lira eden seyi 2 liraya almazsınız.
+
+2)çalışma ortamı çok daha profesyoneldir genelde scrum teamlerden olusur yazılım ekipleri.
+
+3) aslında birçok sayılan ekstra umrumda değildir. su ucuz yasam kalitesi vs fasarya. benim asıl niyetim 5-6 sene kalıp 2. bir vatandaşlık almak ülkenin durumu malum.(avusturya vatandaslık icin cok iyi bir secim değil ama cagırdılar gidiyoruz bakalım mülakata)
+*************
+3.
+(bkz: kişiye göre değişir)
+(bkz: türkiye'den siktir olup gitmek/#71618839)
+*************
+4.
+şunu açık ve net bir şekilde söyleyim, bu durumda yabancı ülkelerinden bizim ülkeden en son alacağı yazılım elemanıdır, şu da bir gerçekki yazılımlım programı ve işletim sistemleri abd markalı ve bunlar sürekli güncelliniyo yani bizdeki tüm bilgileri düzenli alıyorlar, onlar bize yazılımcı gönderir yine bizden çok fazla yazılımcı istemezler sözün kısacası yerli bir yazılım programı bir bilgisayar dili şart.
+*************
+5.
+tersi de vardır,
+
+evet yazılım sektöründeyim, evet bir iki ay önce amerikadan türkiyeye döndüm, evet geri gitmiyor ve türkiyede kalıyorum ve bir süre daha kalmaya da devam edeceğim, evet tanıştığım görüştüğüm kimse kalmamış artık, çoğu yurtdışına gitmiş (hatta bazılarına ben sebep olmuşum) oysa ben sırf bu muhabbet için gelmiştim, umarım kafa dengi birilerini bulabilirim
+*************
+6.
+talebi çok ve dil bariyerinin minimum olması sebebiyle yazılımcıların ön plana çıkması durumudur. halbuki muhasebecisinden, öğretmenine keşke yapabilsem demekte.
+
+zaten üniversite hayatını yurtdışı değişim programlarıyla geçirmiş güruh büyük oranda üniversitesi biter bitmez bir şekilde kaçıyor. bu şekilde bir deneyim elde etmemiş, yabancı kültür tanımamış ve yabancı ülkede birkaç haftadan fazla yaşamamışlar içinse yurtdışında yapılabilecek en kolay mesleklerden birisi yazılımcılık. he bir de dijitalleşen dünyanın ihtiyaçları bu yolu kolaylaştırıyor.
+
+hayat standartlarının düşmesi konusunda ise, birkaç yıllık deneyimi olan bir yazılımcı sabah akşam mesai nedir bilmeden çalışıp, belki üstüne birkaç freelance iş yapıp aylık 7-10bin tl - tr. asgari*5 - kazanç elde edebilir diyelim. ama bu kişi almanyaya 3 bin euro - alm. asgari*2 - maaşla gitmeyi kabul edebilir. sonuçta karşılığında daha iyi yaşam standartları, daha özgür bir alan ve daha adil iş hayatı alacak. asgari ücretin 5-6 katını kazanmayı bırakıp 2 asgari ücretle geçinmeyi yeğleyecek yüzbinler var.
+*************
+7.
+#include "stdafx.h"
+#include "turkey.h"
+
+void stayorleave(m_blifequality, m_bfreedom, iiq)
+{
+bool bstay = false;
+
+if (iiq <= 60) // intelligence power
+{
+bstay = true;
+return;
+}
+
+// todo: add salary & purchasing power, use int instead of bools (too lazy todo rn)
+bstay = !(m_blifequality && m_bfreedom);
+
+fuckoff(bstay);
+}
+
+--- ---
+
+hadi eyv.
+
+--- ---
+
+edüt: shorthand tavsiyesi icin adli yazara tesekkurler.
+*************
+8.
+(bkz: so long and thanks for all the fish)
+*************
+9.
+şşş hayat çok mu güzel lan? diye sorgulatan durumdur.
+
+ayrıca bunu yapan arkadaşları en kalbi hislerimle tebrik eder muvaffakiyetlerinin devamını cenabı rabbülaleminden niyaz ederim efendim.
+
+mazide yediğimiz hurmaların neticesinde yaptığım tercihleri ve edindiğim mesleği sorgulamak durumunda kalmaktan hicap duymama vesile oldular sağolsunlar.
+
+neyse vatan sana canım feda mı diyorduk,bi şeyler diyoduk bu tip durumlarda avunmak için neydi o?
+
+hayır ağlamıyorum gözüme biraz çaresizlik kaçtı.*
+*************
+10.
+1,5 sene önce hollanda’ya giderek benim de yaptığımdır.
+
+anlamıyorum, birçok kişi -buna gittiklerini söyleyen yazılımcı arkadaşlar da dahil- daha düşük maaşa/standarda gittiklerinden bahsetmiş. benim tecrübem aksi yönde oldu. daha iyi maaşa, kadın olduğum için daha değersiz görülmediğim daha iyi bir iş ortamına, başkent olmasına rağmen daha trafiksiz daha gürültüsüz ama daha fazla eğlenceli bir şehre, elbise ya da etek giydiğim zaman öküz gibi bakılmadığım rahatsız edilmediğim bir kültüre geldim.
+
+kadın olduğum için erkek meslektaşlarımdan daha düşük aldığım, elbise giydiğim zaman tacize uğradığım, 6:30’da uyan/1.5 saat trafik/9 saat çalış/1,5 saat trafik/yemek ye/bulaşık yıka/uyu/uyan/tekrarla düzeninde ruh sağlığımı kaybettiğim, her sabah ağlayarak otobüs çarpsa allah canımı alsa da kurtulsam dediğim bir hayattan yukarıda bahsettiğim hayata zıpladım. ben bu standartlar için türkiye’de kazandığım paranın yarısını kazanmayı göze almışken, daha fazla maaş teklifi alarak üstelik...
+
+fırsatı olan (özellikle hemcinslerim) beklemesin, ulu manitu geri döndürmesin. amen.
+*************
+11.
+isabetli karardır.
+
+gidin olm, gerçekten gidin zira ülke batıyor,
+hiç değilse siz gidin, biz uzaktan yaşlı gözlerle bakarız ama siz gidin kurtarın kendinizi.
+*************
+12.
+son çıkan kapıyı kapatsın arkadaşlar...
+*************
+13.
+vize işlemlerinin bitmesinin ardından içinde olacağım eylem.
+
+edit: vazgeçtim.
+*************
+14.
+teklif asamasinda, son anda vazgeçerek içlerinde olamadığım topluluktur. ulkeye bir yıl daha sans vererek erteliyorum. hadi hayirlisi.
+*************
+15.
+garson kapıyı getir, dışarı çıkacağım
+*************
+16.
+yazılım mühendisi olup türkiye'yi terk edememem rezaleti
+*************
+17.
+nickimin sahibinin yıllar önce yaptığı eylemdir.
+*************
+18.
+yazılımcıların yurt dışına gitmek istemesinin en büyük nedeni kur farkı başta olmak üzere ekonomi problemlerdir.
+
+yazılımcıları yurt dışına kaçıran bazı nedenler:
+
+başarılı girişimlerimizin az olması.
+dünya çapında yazılım geliştiremiyor olmamız.
+yazılım şirketlerinde genel olarak düşük personel sayısı olması.
+başarılı içerikler üretemeyen yazılımcılar yurt dışında daha rahat bir yaşam sürdürebilir.
+*************
+19.
+bu konular daha ne kadar konuşulacak çok merak ediyorum, meslek dalı fark etmeksizin bir de türk olarak yurtdışında hele bu yıllarda olmanın ne demek olduğunu bir tartışalım.
+
+türk pasaportu ile yurtdışında eğer arkanızda büyük bir firma yok ise bireysel bazda göreceğiniz muamele ile uzun soluklu bir çalışma hayatınız olmayacaktır.
+
+sen yaşadınmı ne anlatıyorsun diyenlere cevabım 30 senedir kardeşim yaşıyor, çocukları oranın vatandaşı ve eğitimli olduğu halde gördükleri muamele herşeyi net ortaya koyuyor. yer almanya.
+
+sonuç olarak isterseniz kalp cerrahı prof. ya da atom mühendisi 5 dil bilen biri olun türk pasaportu ile dışarıda işiniz çok zor, şahsi fikrim katılan olur olmaz ama realite bu.
+*************
+20.
+özellikle batı avrupada türklere karşı ofansif bir tutum olduğu doğrudur fakat bu demek değildir ki yaşam standartınız buradaki kadar kötü olsun. bu ülkede türklerin türklere yaptığı ayrımcılığı yurt dışında bile göremezsiniz erkeğinden kadınına herkes birilerini ayıklamanın,üstün olmanın,ezmenin peşinde dini değerler yaşam tarzı vs oralara zaten girmiyorum lakin korkmayın burada durmak size zaman kaybettiriyorsa hele ki yazılımsa alanınız gitmek size çok şey kaybettirmez.
+*************
+21.
+excelde makro yazsın diye bilg.müh çalıştıran zihniyetlerin olduğu ülkede yapılacak en kral harekettir.
+*************
+22.
+dolarla güzel maaş veriyorlar, terk etmek için güzel teklif
+*************
+23.
+6 ayda yazılımcı değil,
+yazılım stajyeri bile olunmaz.
+
+düzgün bir pozisyonda (ki buna junior diyelim) düzgün bir işe girmek için sizden en az 3 yıllık sektör deneyimi isterler.
+
+diplomanız yoksa, sektör deneyimisorarlar.
+"sektör deneyimim var" derseniz, çıkar da göster projelerini derler.
+gösterebilirseniz, sınav yaparlar.
+
+şimdi, ben 8 yıldır bu işle uğraşıyorum ve hala kendimi yeterli göremiyorum. hala yapacakları sınavda ne yapabileceğime emin olamıyorum.
+
+adam gelmiş burada; 25-26 yaşında bir meslek edinmiş kişilere "boşverin 6 aylık kursla yazılımcı olun" diyor. 6 ayda yazılımın ne olduğunu anca anlarsınız. tek satır kod yazamazsınız, yazdığınız kod da doğru olmaz.
+
+adam mesleğini bırakıp bu ümit tacirleri yüzünden bu işlere girecek, hiçbir bok olamayıp intihar edecek.onu istiyorlar herhalde.
+
+size işi basit matematiğe dökeyim;
+üniversite 2. sınıfta yazılımla uğraşmaya başlamış birisi, 22-23 yaşında stajyer olarak bir firmada çalışmaya başlıyor.
+
+bu kişi gününün 9 saatini yazılım yapmaya çalışarak geçiriyor, üstelik departmandaki kişilere sorup işin doğrusunu öğrenebiliyor.
+bu kişi eve gelip 3-4 saat de udemy'den dersler alıyor veya işteki bir projede çalışmayı sürdürüyor.
+
+naptı? günde 12-13 saat yazılım çalışmış oldu.
+
+sen kimsin? 25-26 yaşına gelmiş, hayatında yazılım hakkında zerre bilgisi olmayan, algoritmadan anlayan birisin. ne kadar vaktini ayırabilirsin? işten çıktıktan sonraki 3-4 saatini.
+
+şimdi kendini diğer çocukla kıyasla ve bu işin neden olmayacağını anla.
+
+bir yerde düzgün pozisyonda yazılımcılık yapmak istiyorsanız; en az 1.5 sene kendiniz çalışıp gelişecek, üstüne 2-3 sene belli projelere destek atacaksınız, yetmeyecek en az 2 sene boyunca da kendiniz projeler geliştiriyor, bir portföy ediniyor olacaksınız.
+
+bunların hiçbirine sahip olmadan sizi yazılımcı olarak işe alabilirler,
+ama 3-5 ay sonra kovarlar. böyle 2-3 yerde çalışır hiçbir bok öğrenmeden 2 senenizi harcar, sonra da kendinizi tuvalette asarsınız.
+
+gerçekçi olun. 6 aylık tecrübeli ameleyi bile almazlar inşaata. değil size koca yazılım projesinde yer vermek.
+*************
+24.
+okudugunu anlamayi beceremeyen bir takim arkadaslarimiz (onlara dayi falan deyip gonullerini hos tutun, nitekim onlar tanimadiklari bizlere yegenim cekecek kadar komplekse burunmus kisilerdir) cok dertlenmisler.
+
+bir iki seyi aciklayayim, cok mesaj geliyor cunku.
+
+birincisi ben 6 aylik kurs aldim ve artik her seyi biliyorum kafasinda degilim. burayi yanlis anlamis bazi arkadaslar, birkaci cok icerlemis. 6 ay gotumuzu yirttik, calistik. karsiliginda da ise girdik. birisi bizi ise aldi mi? aldi. bunun tavsiyesini vermeyecegim de ne yapacagim. ise girdikten sonrasi kisinin kendisini ilgilendirir. ne biliyorsun basaramayacagini insanlarin, vay anasini ya.
+
+ikincisi ben 6 aylik surede sadece udemy'den video izlemedim. senin 4 yil boyunca okudugun universitede haftanin 5 gunu onune verilen ve su anda bu sektorde 50+ yasindakiler disinda kimsenin haberi bile olmadigi bilgileri ogrenmek yerine; guncel onlarca kaynaktan yuzlerce makale, yuzlerce developer'dan binlerce dokuman okudum, inceledim, ustunde calistim. gunde en az 8 saatimi ayirdim.
+
+kaldi ki benim alanim frontend developer. bu ulkede senin gibi egoist insanlar patron olmadigi icin junior frontend developer olarak ise giren birinden beklenen sey google'a algoritma yazmasi degil, senior'lara vs kulfet gelen tasklari alip kendini gelistirebilmesi. sanirsin her proje facebook. her is yerinde yeni algoritma uretiliyor.
+
+ucuncusu sen benim aldigim kursun sikko olup olmadigini nereden biliyorsun? benim aldigim kursta ne ogretildigini nereden biliyorsun da benim bir sey ogrenmedigimi zannediyorsun? sen akillisin da beni ise alan adam geri zekali degil mi? tipik bir osmanli evladi mubarek. http protokolunu, asynchronous'un mantigini bilmeyi bir sey saniyor bir de. mesele bunlardan ibaretse ben seni coktan gectim dostum.
+
+turkiye'de universiteden mezun olup da mesleginde ne yapacagini bilen bir tek kisi var mi? okulunu okumus olunca degil, isi eline aldiginda ne yaptigin onemli. ha senin kafan basmiyor da yillarca calisman gerekiyorsa, gozyaslarimiz seninle.
+
+dorduncusu, sen ne sartlarda nerede calisiyorsun bilmiyorum ancak dunya artik 2 yilda yazilimci olanlara senin iddia ettiginin aksi yonunde sasiriyor. despotlugun zirvesinde geziniyorsun dostum, seni ingiltere bile rahatlatamadiysa bu hayatta isin zor.
+
+yillarca calisip bir yere gelmissin madem. react ogrenip senin yaptigin isi senin elinden alacak degil kimse. ama react ogrenip ise girebildiyse birisi, birak da insanlara tavsiye versin, ben yaptim sen de yaparsin diyebilsin. bundan gocunmak nasil bir eziklik psikolojisidir arkadas.
+
+yapamazsin yegenim, biz ne yollardan gectik, o isler oyle kolay degil... kardes bunlari konya'nin kahvehanelerinde konusuyorlar. bir de gelmis buralari bok etmeyin diyor, zihniyete bak.
+*************
+25.
+kursiyer arkadaslarin damarina basilmis olacak ki iyice aglamislar. gunde 8 saat "kurs"a giderek yetistiklerini sanmislar. 6 aylik kurslarda yazilimci yetistirilmez, yazilimci oldugunu sanan insanlar yetistirilir.
+
+yolunuz yol degil, erken davraniyor daha hamken pistim saniyorsunuz diyoruz. 2 sene 3 sene bu ise emek harcamayan adam piyasada erir gider, bosuna hayal kirikligi yasar. duzgun bir sekilde kendini egitse belki becerip tutunabilecekken, daha yuzme bilmeden denize acilmalarini tavsiye edersiniz bogulur giderler. baskalarina umut sacmayin henuz tavsiye verecek kalibrede degilsiniz.
+
+%0.2 diye gotten olasilik uydurmaya benzemiyor, insanlarin geleceginden bahsediyorsunuz. ingiltere'de amerika'da kimse sizi bacaklarini acmis gel sok diye beklemiyor hayal dunyasindan cikin. ciddi emek bilgi birikim gerekiyor. sizi okuyan uc bes hevesli tip de ulan bu ibibik bile is bulduysa ben de bulurum diye gelecek, husrana ugrayip donecek. bu mu hosunuza gider yoksa ulan turkiye'den hep yetismis eleman geliyor diye turklere olan bakis acisi degistiginde (su anda dogu avrupalalilara bu gozle bakiliyor mesela) sen yeni bir is ararken bir adim onde olmak mi?
+
+onceki entry'mde grafigi tam da bu yuzden paylasmistim. bildigini saniyor adam daha onunde derya deniz varken, ustune bi de tavsiye veriyor. 10 senelik adamlar gelmis zorlaniyorum diye itiraf ederken bu 6 aylik kursiyer es kaza ise girmis, gelmis yapilir ne var ki diyor. kimin sozune guvenilir zaten ortada.
+*************
+26.
+(bkz: beyin göçü)
+*************
+27.
+lan olum 15 senelik developer olsan noluyor ? biz meslege basladigimizda mobile app mi vardi, angular mi vardi,react mi vardi ? json bile yoktu lan.
+
+kisaca 6 ayda gayet iyi proje gelistirecek seviyeye gelebilirsiniz arkadaslar, architect olmayiver aq, birak yegenim diyen architect olsun. ya da sende zamanla gelistir kendini.
+
+her koyun kendi bacagina.
+
+yazilimcilara tavsiyem ielts 8 seviyesindeyseniz avustralyayi da listeye ekleyin pr 189 u arastirip, avrupadan artisi cok,tek eksisi uzak olmasi zannimca.
+*************
+28.
+gencler yurtdisi olarak hep avrupa veya amerika'yi gormus ancak yurtdisi bundan ibaret degil. ortadogu, uzakdogu hatta guney afrika marketlerine adim atarsaniz, ozellikle global sirketlerde baska ulkelere transferlerin onunu acabilirsiniz.
+
+hatta buralardan amerika gibi ulkelere uluslararasi tecube ile sirket uzerinden transfer oldugunuzdan , green card'a basvurunuz farkli kotalardan degerlendirilip (eb1 )6 ayda cillop gibi greencard'a sahip olabilirsiniz.
+
+ufkunuzu acin, her baslangic yahsi bati'dan olmak zorunda degil.
+*************
+29.
+önnot: diplomalı falan değilim. yazılımı kendim öğrendim, internetten araştırarak. öğrendiğim dönem bu işe günde 10 saatten fazla süreler ayırdım. geçen gün yazılımı öğrnediğimi düşünüdüğümün birinci senesinde yaptığım siteyi buldum. onu refere ederek değil bir yerde işe girmek, kendimi rezil ederdim sadece.
+
+ama o siteyi yaparken hissettiklerimi de biliyorum; "oh be öğrendim bu iş, ne istersem yapabiliyorum" diye düşnüüyordum. halbuki işin gerçek yüzü o değil. yazılım bir işi yapmak değil. bir işi doğru yapmaktır. hiç kimse işi doğru yapmayı öğrenme tecrübesini 6 ayda edinemez. junior olarak bir işe girebilmek için, bir şeyleri yanlış yaptığını anlamaya başlaman lazım en azından. yoksa junior falan olamazsınız. uzatmak istiyorum, ama uzatamam.
+
+dediğim gibi; bu işe günde 7-8 saatinizi ayırmak zorundasınız. bunu ayırırsanız 6 ayda en azından mesleği öğrenebilirsiniz. ama 6 ayda yazılımcının y'si bile olamazsınız.
+
+6 ayda yazılımcı olamazsınız.
+azimli sıçan beton deler, ama 6 ay çalışan yazılımcı olamaz.
+
+6 ayda yalnızca yazılımın ne olduğunu anlarsınız.
+junior olabilmek için, bir şeyler yapabilmiş olmanız lazım. 6 ayda hiç kimse hiçbir şey yapamaz. hele günümüzde hiç mi hiç yapamaz.
+
+6 aylık süreçte front end developer; html, css, javascript mi öğrenecek? bunun üstüne react mi vue mu öğrenecek? 6 ayda html, css, javascriptin anca operatörlerini öğrenirsiniz. daha bir sonraki aşama için ne öğrenmeniz gerektiğinin kararını bile veremezsiniz. öğrenmeye çalışsanız 6 ay da bu sürer.
+
+6 aylık deneyimle girdiğiniz işyeri, sizi stajyer olarak işe almadıysa işten çıkartır. yazılım, bilgisiz personelin diğer personellerin zamanından çaldığı bir alandır.
+
+1 sene sonunda olabileceğiniz tek şey, kendinize bir blog sitesi yapmak, basit bir kurumsal website yapmak veya %100 statik bir application yapmak olur. bunların da piyasada hiçbir değeri yok.
+
+1 sene öğrenci olursunuz,
+2 senenin sonunda stajyer olursunuz,
+bundan sonraki süreçte junior olmaya başlarısnız ve tüm bu süreçte yaptığınız iş sayısının fazlalığı ve kullandığınız güncel teknolojilere göre de eli yüzü düzgün işlere başvurmaya başlayabilirsiniz.
+*************
+30.
+(bkz: hayırlı forumlar)
+*************
+31.
+şaka şaka siktir git
+*************
+32.
+ulan bu ülkenin yetiştirdiği en donanımlı insanlar birer ikişer ülkeden kaçıyor, cahil adam gelmiş utanmadan buradan gidene siktir çekiyor. oğlum siz salak mısınız? yalvarmanız lazım bu insanlara. ne olur gitme kal demeniz lazım. sizin aptal zihniyetiniz yüzünden bu güzel ülke kan kaybediyor her geçen gün. sizin de, sattığınız ucuz milliyetçiliğin de... ne diyeyim, allah iyiliğinizi versin.
+*************
+33.
+şu başlığa “siktirsin gitsin” yazan vizyonsuzun önde gidenidir, maksimum lise mezunu falandır, bak maksimum diyorum.
+*************
+34.
+hem insanlık hem kendileri için olumlu olan bir gelişme. türkiye'de kalıp harcanacaklarına batı da doğru düzgün insanlarla, işe yarar projelerde yer almaları hem kendileri hem de insanlık için daha iyi olacaktır. türkiye gibi vasatlığın hakim olduğu, her alanda dandikliğin hakim olduğu bir ülkede vasat olmayan ya da vasatlaşmak istemeyen insanların mutlu olması zor.
+*************
+35.
+türkiye'de bir yazılımcının çalışabileceği yalnızca 2-3 şirket olduğundan (tabi bunların da merkez ofisleri silikon vadisinde) yapılması en mantıklı harekettir. hatta yazılımcı olmadan lisans üstü eğitime gidip yeni mezun olarak orada başlamak daha mantıklıdır. iyi bir yeni mezun senede ortalama net 600.000 tl kazanabiliyor, belki daha da fazla.
+
+başlıkta yazanların çoğunun olaylardan haberi yok, ancak 8+ tecrübesi olan bir bilgisayar mühendisinin silikon vadisinde alacağı toplam para (hisseler, maaş ve bonus) vergi hariç milyon dolara yakındır. hatta türkiye'de adı geçmeyen hisse olayı toplam alınan paranın 2/3'ünü oluşturur. aynı şartlarda türkiye'de çalışan adamın aylık alacağı para maksimum 30.000 tl'dir (yönetici olmadığını varsayıyorum). bu da dolara vurduğunuzda silikon vadisinde yeni mezun maaşı bile etmez.
+
+başka bir yanlış bilgi ise avrupa'ya gitmek hakkında. şayet tier 1 bir şirketin avrupa ofisinde (google, facebook, uber vs.) ya da önü açık bir start-up'ta çalışmıyorsanız (bu da start-up'ların %2'si falandır) alacağınız para amerika'da alacağınızla karşılaştırdığınızda başta aynı olsa da, sonrasında yarısına falan karşılık gelir.
+
+bunun türkiye açısından problemi şu, yazılım katma değer yaratacağınız en kolay alandır, tek yapmanız gereken adam yetiştirmek ki türkiye bu konuda gayet iyi, ve yetiştirdiğiniz adamı türkiye'de tutmak. çünkü diğer iş alanları gibi hammaddeye ihtiyaç duymazsınız, ar-ge si büyük ölçüde topluma mal olmuştur (open-source) ve parlak fikirlerle kolay para kazanmak bunlardan dolayı çok kolaydır. siktir git diyen insanlar da buradan amerika'ya giden insanların 1 senede kazandığı parayı ömürleri hayatları boyunca göremeyecek insanlardır ki bu insanların vizyonlarından pek bir şey beklememek lazım.
+
+not: kaliforniya
+
+edit: ekleme
+*************
+36.
+sadece yazılımcıların değil, aklı salim ve yetkinliği olan insanların yaptıkları olay. bu ülkede kaldıkça;
+- asalak olarak yaşayan suriyelilere bakma ve normalde almak istediğim bir çok hizmeti vergi ödememe rağmen alamama (hastaneler vb)
+- asalak olarak yaşayan ciddi bir devlet çalışanı kitlesini besleme zorunluluğu
+- asalak olarak yaşayan çıkar gruplarını besleme - yapılan sözde yatırımlarla 1 liralık işi 20 liraya mal edip abuk sabuk insanları ihya etme sorunu
+- eğitim sistemi yok olduğundan dolayı hem devlet okulları için vergi verme hem özel okula para verme yükü
+- eğitimsiz kitleye verilen sosyal yardımları finanse etme zorunluluğu
+- gereksiz gösteriş ve diğer devlet giderlerini vergilerde sana bindirmeleri sorunu
+- sosyal devlet yapısının ileride daha da çökerek emekli olacak yaşa ulaştığımda aylık emekli maaşının 300-400 tl seviyesine gelecek olması problemi
+- toplum içerisinde saldırganlığın, zorbalığın değer görmesi. can güvenliğinin tam sağlanamaması. herhangi bir sıkıntı da polisin gelmemesi, gelse de işini yapmamak için direnmesi.
+- insanların işini doğru yapmak için çaba göstermemesi. çok büyük çoğunluğun iş yapar gibi yapması.
+- beklenen istanbul depremi sonrası türkiye'nin ne olacağının mechul olması durumu.
+- şans eseri iş hayatında veya günlük hayatınızda çıkarınızın erk sahibi ile çatışması sonucu zarar görmeniz ve itiraz-kendinizi koruma hakkınızın olmaması sorunu
+- kendini haklı ve müthiş zanneden büyük bir insan kitlesi. cahilliğinden güç alan bu kitlenin ülkenin başını saçma sapan yerlerde belaya sokacak tercihler yapmaları. sizi de vatan millet sakarya diyerek yanlarında bilinmeze sürüklemeleri.
+- bu cahil kitlenin gerçeklikten kopuk olması ve kendilerini dünyanın en güçlü, en iyi, en asil, en aklınıza gelebilecek şeyi sanmaları. ar damarı çatlayan bu kitlenin yalan söylemekten çekinmemesi ve sırf kendi ideolojileri aynı diye tam destek devam etmeleri. 21. yüzyıl'da muaviye dönemine taş çıkartmaları.
+- bu cahil kitlesinin sizin de başınızı belaya sokma isteği (sıkıntı çıkaracağım diyen adam örneği - kendinde herkesin sınavını yakma cesareti görmesi) sadece düşünün kızınız içeride sınavda ve bu adam bağırıp çağırıp sınav yerini birbirine katıyor. polis müdahale etmiyor. ne yaparsınız?
+
+bu saydığım sebepler sebebiyle artık bu ülkede gelecek görmüyorum. farkındaysanız da gün geçtikçe tüm hizmetler kötüleşiyor (özel sektör ve devlet) çünkü yeteneği olan, katma değer yaratan herkes yavaş yavaş gidiyor. bu durum it/bt ile sınırlı değil. gelecekte parasını verip alamadığınız daha çok hizmet olacak çünkü sizi koruyan bir devlet mekanizması ve aldığınız hizmeti hakkı ile yapacak insanlar olmayacak.
+
+dünyada gelişmiş ülkeler ile gelişmekte olan ülkeler arasındaki fark kapanmanın aksine açılarak büyümeye devam ediyor. türkiye bu saydığım ve daha sayamadığım bir çok sebep nedeniyle daha da fakirleşecek. bugünün gelişmiş ülkeleri ile türkiye arasındaki fark gelecekte çok daha açık olacak. o yüzden atlayabilenler bu treni kaçırmadan atlayıp insani gelişmişliği yüksek ülkelerde hayatlarına devam etmek istiyorlar. durum bundan ibaret.
+*************
+37.
+28 yillik hayatimda geriye donup baktigimda kesinlikle verdigim en dogru karar. geride kalanlara tek tavsiyem; "turkiye'den siktir olup gidin"
+
+not: amsterdam spor.
+*************
+38.
+tübitak eş dost akraba çiftliğine dönünce, zaten kalmaları ayıp olur..
+*************
+39.
+beni de kapsayan durum. zamanında tr'den uk'e geldim. standartlarda düşüş oluyor demişler, kişisine göre değişir. bunu söylemek biraz enteresan olacak, özür diliyorum ama ben kendi adıma iyi para kazanıyorum ve gbp/try kur çevriminden bahsetmiyorum. ingiltere şartlarında da iyi kazanıyorum. mevzu işinde nekadar iyi olduğunla ya da konuna ne kadar hakim olduğunla ilgili.
+
+burada çok firmaya bir şekilde temas ettim, girip çıktım. çok adam tanıdım ve sayısız türk yazılımcı ile karşılaştım. burada tutunabilenlerin tamamı (evet tamamı) gerçekten çok iyi yazılımcılar. hatta stereotype oluşturacak kadar çok ve iyi türk yazılımcı var. bir firmada takım lideri cv leri değerlendirirken diğerine "bu adam türk, sağlam tecrübesi var. kesin çok iyidir, görüşmeye çağırmalıyız" dediğini bizzat işittim. oraya gidip işsizlik maaşıyla geçinen hırboların yerlere serdiği itibarı az sayıda insan yavaş yavaş yukarı çekiyor.
+
+iki şey hissediyorum, biri içimi acıtan, diğeri de pişmanlık duyduran iki his.
+
+içimi acıtan, "defolsun gitsin" modunda cevaplar duyuyorum. bir yazılımcının yetişmesinin topluma ve devlete maliyeti ne kadar biliyor musun? hele de türkiye gibi ortalama bir ülkede. çok büyük bir dönüşümün eşiğindeyiz ve geride kalan medeniyetlerin tümden gereksiz hale geleceği; sömürülmeye hatta köleleştirilmeye bile gerek duyulmayacağı bir dönem geliyor. yakında taksicilikten pazarlama müdürlüğüne, tıp doktorluğundan avukatlığa ve hatta yazılım geliştiriciliğine kadar hiçbir meslek bu dönüşümden muaf değil. herkes çok ya da az etkilenecek ve düşük kalifikasyon gerektiren mesleklerin tamamı evet tamamı, tamamen yok olacak ve bu 10-15 yıl içinde olacak.
+
+ülkeyi bu dönüşüme hazırlayacak tek değil ama en önemli iş gücü yazılımcılardır. bu ülkede zaten az var ve zor yetişiyor. olanlar da gidiyor ve durdurmanın yolu yok çünkü zihin ile iş yapan birine imkan vermen lazım, geleceği görmezse tutamazsın, zorla birşey yaptıramazsın. üstelik bu süreçte gidenlerin değil dirisini, ölüsünü bile geri getiremezsin. bir kere hayat standardı, demokrasi ve kafa rahatlığının tadına varmışlar. üstelik, o beğenmediğin kemalist eğitim sayesinde yetişmiş az sayıda akıllı adam kaçıp giderken onların yerini imam hatip, mezar taşı okuma ya da haftada 8-10 saat din dersi gibi aptalca motivasyonlarla yetişen mevcut nesillerle doldurmak imkansız. gelecekte türkiye'nin dikkate değer ülkeler listesinde olmayacağını bilmek içimi acıtıyor.
+
+gelecek nesiller bu nesillere çok küfredecek, bunu içeriden anlamak mümkün, dışarıdan ise çok daha net görebiliyorum. biz daha iyisini yapabilecek potansiyeldeyiz. hayatı boyunca hiçbir işe yaramayıp beş on sene sonra tamamı geberip gidecek amcaların teyzelerin saçma cennet hayalleri için; ülkeye, devlete, topluma, üretime bir kuruş katkısı olmayan gereksiz kitlelerin benim vergilerimle bana küfretsin diye kendi çocuklarına dini eğitim aldırma isteğinin; hayatı boyunca bir baltaya sap olamamış oğlunun ya da yeğeninin tırt bir belediyede kıytırık bir işe girmesi için; babadan kalma arsasına dört daire bir dükkan yapılması için kısacası saçma sapan insanların saçma sapan çıkarları için bu ülkenin geleceğinin göz göre göre yakılıp yok edilmesi içimi acıtıyor.
+
+pişman olduğum konu ise şu, neden daha önce gelmemişim. biliyorum, sözlük mutlu göçmen hikayesi sevmez ama evet, tek pişmanlığım bu.
+
+orada ırkçılık var diyenler için peşin not:
+inanmayın. ingiltere için söylüyorum, loser english diye tabir edilen bir kitle arasında az sayıda ırkçı var ama devlet göz açtırmaz, içim çok rahat. üstelik buranın ırkçısı, ortalama bir türkten daha az ırkçıdır. örneğin, iç işleri bakanı ve londra belediye başkanı pakistanlıdır. başka bir ülkeden, başka bir dinden. birinin adı sadık, diğeri sacit o derece. gürcistan'dan, ermenistan'dan ya da romanya'dan zamanında türkiye'ye çalışmaya gelmiş birinin çocuğunun istanbul belediye başkanı ya da iç işleri bakanı olduğunu hayal edebiliyor musun?
+bir alevi'nin general, vali, kaymakam vs. olmasını geçtim, alevilerin en çok oy verdikleri partinin başkanı olmasından bile rahatsız olan varken; ermeni, yahudi ve rum ifadelerini başına sonuna bir şey takmaksızın direkt küfür olarak kullanabilecekken, (kürt ve suriyeli konusuna sadece temas edip hiç girmiyorum) başkasına ırkçı demek abesle iştigaldir.
+
+edit: imla ve anlatım bozuklukları
+*************
+40.
+avrupa’da düzgün bir ülkeye iş bulup yerleşerek türkiye’ye kıyasla hayat standardını düşürmek pek olası değil. o kısmında biraz şey konuşmuş.
+
+yüksek ihtimal giderleri eurodan try’ye çevirip düşündü, ama maaşı try’ye çevirmedi. bu minik detayı atlayıvermiş sanırım.
+*************
+41.
+su yazilimcilari rahat birakin artik dedigim olay.
+*************
+42.
+>> yazilimci'larimizin yazdigi / kodladigi yurtdisinda yada onu gectim bu ulkede bilinen kullanilan sadece 3 program soyler misiniz
+
+oyle bir seye gerek yok. enterprise denen kurumlar, binlerce insan calistiriyor. bu insanlarin cok buyuk kisminin boyle projelerde calismis bir profili yok, ne amerikan ne alman.
+
+almanlarin, sap, amerikanlarin sayisiz sirketleri (vmware, hw-packard, ve tonlarcasi),
+karlarinin cogunu, dogu avrupadan, ve orta dogudan adam toplayip ve sonucunda hizmet sunarak yapiyor.
+*************
+43.
+hintlileri çinlileri nimetten sayanlara yazık.
+hintlilerle çinlilerin yaptığı işlerin hepsi çöp, robot gibi kod yazıyorlar. analitik esneklik yok, fikir yok, hiçbir şey yok yaptıkları işte.
+
+çinliler ve hintlilerin yaptığı işin adı yazılımcılık değil.
+operatörlük.
+
+o yüzden boşa kasmayın.
+
+almanya 2020 başında yasayı aktif ediyor. 4 yıllık mühendislik diploması olan veya 5 yıllık "bu sektörde" iş tecrübesi olan herkes elini kolunu sallayarak almanya'ya gidip 6 ay boyunca iş arayabiliyor. o 6 aylık sürede iş bulabilirsen de, yurtdışından adam getirme prosedürlerinin tamamı yok sayılarak sanki almanya'da yaşıyormuşsun gibi işe alabilecekler.
+
+ha yukarıda bir yerde "sap yazan bi tane türk yazılımcı var mı" diye gider yapan biri var. bu insanlar artık komik bile olamıyor amk. bu cehaleti gördükçe üstümü başımı yırtasım geliyor.
+
+not: şu aşamada kaçmadığım, ama kaçanlar sayesinde saatlik ücretimi her geçen gün katladığım durumdur. yarın bir gün yaşanmaz hale gelince de elimi kolumu sallayarak giderim. onlarca proje tecrübem, 6 yılı aşkın deneyimim var. şimdilik ülkemden, ülkemin sosyal imkanlarından memnunum.
+*************
+44.
+yurt disina gitmek icin yazilim ogrenmeye calisan arkadaslar, en asa 5 yil sektorde calisip proje cikarmalisiniz. yoksa hindistanlilar sizi yer. hayal gormeyin derim.
+
+gidenler varmis, 1 yillik tecrube ile bilginize.
+*************
+45.
+gidenlerden nasil ve nereden is bulduklarina dair bilgi almak istedigim durum. yesillendiriniz efenim.
+*************
+46.
+son olarak avrupa genelinde turkiye vs. avrupa kisa bir ozet:
+
+*ev
+turkiye'de krediyle, soyle boyle, bir ev almak ile avrupa da bir ev almak kiyaslanamayacak seyler. ortalama bir avrupa metropolunde, 60~100 senelik 2+1 evler,
+200,000 euro'dan basliyor. yeni evleri konusmaya gerek yok, ayni fiyata 50m2 ev bulursaniz sanslisiniz.
+merkeze toplu tasimayla 30 dakika uzakta olanlardan bahsediyorum. krediler uygun ama.
+
+ayrica, ghetto(turk+arap+zenci)'da yasamak sorun degilse, devlet destekli boktan evler daha ucuza mevcut. genel olarak ama, emlak sektoru kiyas kabul edecek gibi degil. diyelim ki, avrupa'da yilda 1000 ev yapiliyorsa, turkiye'de 10,000 yapiliyor bunu bilmekte fayda var. sonra ev alamiyorum, ustune kiraya 1500 euro veriyorum diye sasirmayin. yeni giden biri olarak, esinle beraber, calisiyor, ve cocuk yoksa, kredi alip 30 senede falan odemek mumkun. kisacasi hayatini oraya kuracaksin, tasinmak, caymak secenek degil.
+
+* araba
+sehir ici yasiyor, tren, ucak yolculuklari sorun degilse, araba zaten genel olarak sacma bir fikir. ama bildigimiz turk isen, araba istersin. araba, avrat, silah yani.
+araba turkiye'ye gore yari yariya daha ucuz. ayrica vergiler, sifir almani tesvik ediyor.
+yani surekli guzel araba surmek mumkun. tabi, vergisi, park sorunu, park etme bedeli falan derken, toplam fiyati toplu tasimayi ikiye katliyor.
+
+* sosyal yasam
+bati avrupalilar(almanya, hollanda,belcika, fransa, uk), bu adamlar farkli. hayat gorusleri farkli.
+is cikisi 5-6 bira beraber gomersiniz, ertesi gun sen kimsin derler, sasirmayin.
+restorant, bar bunlar pahali yerler.
+ayrica is yerinde ogle yemegi genelde 8~10 euro arasi tutar, daha bedava ogle yemegi sunan yer gormedim.
+*************
+47.
+bu arada; gerçekten işini bırakıp yurtdışına kaçmak için yazılımcılığa başlıyorsanız hayatınıza kaydınız demektir.
+
+günümüz dünyasında, aktif yazılımcılar bile teknnolojiyi takip etmekte zorlanır oldu. siz yazılımı öğrenip, öğrendiğiniz yazılımı uygulamaya geçene kadar teknolojisi eskiyecek. yenisine adapte olana kadar, yeni projeye atılamayacaksınız, proje yoksa tecrübe de yok demektir.
+
+tüm bu döngüyü tamamlamak için asgari 4 seneye ihtiyacınız var. sonra düzenli projelere dahil olabilir hale gelirsiniz anca. 4 sene boru değil. 4 sene sonra ne olacağı da belli değil.
+
+önceden gelen tecrübeniz veya bilginiz yoksa bu toplara girmeyin.
+zaten almanya'nın yeni göç yasasında diploman veya tecrüben yoksa boşa gelme diyor.
+*************
+48.
+gidin amk hepiniz gidin. zaten adam bulamıyoruz iyice sicip sivasin ortalık.
+*************
+49.
+ımkani olanlarin terk-i diyar edislerini sonuna kadar desteklerim, zira sayili sehirlerde sayili sirketlerce deger verilen bir meslek, hukumetin betona doktugu paralardan teknolojiye ne kadar onem vermedigini zaten biliyoruz. gidin abi gidenlerin yuzleri gulumsuyor.
+*************
+50.
+oncelikle yurtdisinda yazilimci olarak calismak o kadar da kolay degildir, 3-5 ay kasayim yazilim ogreneyim sonrasinda da yurtdisina kapagi atarim demek hayalperestliktir, yurtdisi turkiyeden cok daha fazla rekabetcidir, burada yazilimci olarak calisabilmek icin veri yapilari ve algoritma yeteneklerinizin ust seviyede olmasi gerekir, turkiyede architect ve lead olarak calisan yazilimcilarin bir cogunun burda entry level bir is bile bulamadigi cok olmustur. turkiyede diger is kollari gibi yazilimcilarinda bir cogu oldukca vasat. ancak bu, cok da farkedilmiyor, o yuzden tum yazilimcilar; yaa yurtdisinda cok para var, orda cok rahat ederim kafasinda, bu dogru degil. yurtdisinda iyi paralar kazanabilmek icin kesinlikle vasat ustu yetenekli olmalisiniz ayrica dil de onemli bir bariyer. ıngilizcenizin de standart ustu olmasi gerekiyor, cok yetenekli biri olabilir, veri yapilarini-algoritmalari yalayip yutmus olabilirsiniz ancak bunlari aciklayamiyor iseniz o zaman da isiniz cok zor. realite bu arkadaslar, isteyen gelir kendi gorur. *
+*************
+51.
+ibretlik bir yazı, tadımlık;
+
+"...“bizim şirketten son dönemde dört kişi yurtdışına gitti," diyor, "fintech" olarak adlandırılan finans teknolojileri sektörünün önde gelen şirketlerinden birinin kurucusu, "işin garibi, daha yüksek ücrete gitmiyorlar. üç aşağı beş yukarı aynı paraları alıyorlar gittikleri yerde. avrupa'nın daha pahalı olduğunu düşünecek olursanız, hayat standartlarında ciddi bir düşüşü göze alarak gidiyorlar. "
+
+"asıl mesele gelecek kaygısı. mesela isveç'e giden bir yazılımcının çocuğu teog'da iyi puan alamamıştı. kaydı imam hatip lisesi'ne çıkınca gitme kararı verdiler. çocuk yeni okulunda isveççe, ingilizce ve almanca öğreniyor şimdi."
+*************
+52.
+“hayat standartlarında ciddi bir düşüşü göze alarak gidiyorlar.”
+
+buna kesinlikle katılmıyorum. istanbul’dan yurt dışına giden bir yazılımcının hayat standartının düşmesi pek mümkün değil. yurt dışı ne kadar pahalı olursa olsun istanbul’un trafiğinden, kaosundan, stresinden, kalabalığından, güvensizliğinden kurtulan birisi için hayat standartlarında bir düşüş beklenmez.
+*************
+53.
+abd'de yazılım muhendisi maaşı ortalaması yıllık $82.000
+
+avrupa'da €42.000
+
+bir mercedes cla avrupada €23k
+yıllık maaşın yaklaşık yarısı+sınırsız sayılabilecek sosyal imkan
+
+abd'de $27k
+yıllık maaşın üçte biri+ultra ucuz benzin ve yaşam giderleri
+
+(lüks segmentin en düşük üyesi) ikinci el mercedes cla'nın türkiyede fiyatı 150 bin tl...
+buradaki muhendisler yilda 450 bin ya da 300 bin+sosyal sahiplenme mi kazaniyorlar da yaşam standartları düşsün?
+
+buradaki mühendis de isveçteki muhendis de yilda 60 bin kazanabilir ama o 60 binler aynı alım gücüne sahip değil
+
+(stockholm'den parise ucak bileti 30 euro, venediğe 70 euro...haftasonu git gel, otel 100 euro...
+ıstanbuldan venedige ucak bileti 400 tl, parise 700 tl...oteller 430 tl...nah gider gezersin, ancak pazar günü aydosa kebaba gidersin)
+*************
+54.
+iklim nedeniyle yazamiyoruz... turkiyede 4 mevsim var, biz binary biliyoruz...
+*************
+55.
+hayat standardinden ne kastettiginize bagli. londra’da yasamakla ankara’da yasamak ayni sey degil. evet londra’da ankara’daki gibi buyuk bir evde yasama ihtimaliniz dusuk ama; afganistan’da villada ayni paraya kalmayi tercih eder misiniz?
+*************
+56.
+neden terk etmesin?yazılımcı adam zeki, kafası çalışan adamdır.burada saçma sapan yöneticilerin ekibinde hakettiğinin altında bir maaş alarak, kelle koltukta yaşayacağına kaçar gider abi gayet mantıklı.
+*************
+57.
+mesleğin dünyanın her yerinde aynı meslek olmasından mütevellik durdurulamayacak terk etmedir.
+
+bundan birkaç ay öncesine kadar gitmeyi düşünmüyordum. şimdi cv hazır, başvurulara başladım. elimde çiftçilik ile ilgili bilgileri saymazsanız 2 meslek var. (bunlardan biri yazılımcılık değil ama aynı sektörün parçası, danışmanlık) 5 yıllık iş tecrübem, 3 tane kurup batırdığım startup var. kısacası gidebilmek adına inancım tam.
+
+birkaç ay öncesine kadar gitmeyi düşünmüyordum, gittiğim tatillerde avrupalıların yaşamını anlamamıştım, buradan yazar bir arkadaş, (finlandiyada yazılımcı) bana çalışma ve yaşam şartlarını anlattı. orta sınıf hayatı, en sevdiğim. ben de öyle büyüdüm zaten koymaz bana. maaş ile ilgili pek bir beklentim yok gideceğim ülkede de.
+
+neyse, canımı sıkan şey, yaptığım iş ya da aldığım para değil burada. benim canımı sıkan buradaki insanlar, metrobüs, trafik, ülkeyi yönetenler, yönetmeden siyaset yapanlar, sokaklar, binalar, kısacası evimden dışarı çıktığım anda bir tiksinme başlıyor.
+
+son birkaç haftadır, metrobüste elim ayağım titmeye başlıyor. motosikletle işe gitmek istiyorum bu defa da cücük kadar yolda kaza tehlikeleri atlatıyorum.
+
+benim hayattan öyle büyük bir beklentim de yok. sabah kalkıp düzgünce işe gideyim, insan gibi bir saatte çıkayım, evime geleyim. günde 8-9 saat harcayayım iş için. şuan 12.5 saat harcıyorum.
+
+motosiklet, bisiklet sürmeye huzurla gideyim, evimin yakınındaki parklarda yürüyüşler yapayım istiyorum. arada da balık tutmaya gitmek.
+
+toplu taşımaya binerken acaba bugün hangi dangalakla itişmek zorunda kalacağım demek istemiyorum.
+
+sanırım bu saydıklarımın hiçbiri lüks değil. ve bir kere geldiği şu hayatta, insan gibi yaşamak herkesin hakkı diye düşünüyorum. evet, bu ülkedeki her bir bireyin de hakkı, ancak bu ülkenin vatandaşlarının böyle bir talebi yok. ben bir kere 25 yaşına geleceğim, bu tadı bi kere alacağım. umarım ki 25. doğum günümde, gönlümden geçen ülkelerde, gerekirse bir başıma, cücük kadar evimde oturuyor olacağım.
+
+ekleme: artık çok iyi beslendiğim dönemlerde bile gastrit ağrısı çekmeye başladım. bir de bu var, bu meslekte, şuan çalıştığım şirkette, bir müşteri için çalırşırken mobbinge maruz kalmam diyordum, o da oldu (çalıştığım şirkette mobbinge maruz kalmadım, hizmet sağladığımız başka bir şirkette maruz kaldım, entrylerimden çalıştığım yeri bulup aaaa orada mı olmuş demeyin, çalıştığım yerde böyle şeyler pek olmaz). sanırım çok doldum.
+*************
+58.
+(bkz: metrukiye)
+(bkz: metruk)
+*************
+59.
+doğru bir tespit. artık yurtdışına beyin göçü orta kademe tecrübeli yazılımcılara kadar piyasası genişledi. bu işin sonu türkiye için hiç de iyi bir yere gitmiyor.
+
+özellikle projeleri idare eden idareciler ve finas sağlayan firmalar çok kötü yönetiliyor. hal böyle olunca yurtdışı size cennet geliyor. tabii ülkenin durumu, ekonomik kriz vs cabası.
+
+ben en çok iş bilmezlerden nefret ediyorum. güzelim projeler çöpe atılıyor ve ben şahsen artık hiç umudum yok.
+*************
+60.
+asgari ücret kaç para haberin varmı?
+*************
+61.
+sadece 3 yıldır çalışıyor olanları ev araba alabilecek seviyeye geldiği için çok da olmayan durumdur.
+
+iyi şirketlerin yeni yazılımcıları, yeni yazılımcıların da iyi şirketleri beğenmemesinden dolayı maaşları daha da artacaktır.
+*************
+62.
+bu konuda tüm bilgilere açığım , bilen yeşillendirsin lütfen. gitmek istiyorum
+*************
+63.
+yazılımcı olmakla alakası yoktur. gitme fırsatı bulan herkes gitmektedir.
+*************
+64.
+(bkz: beyin göçü)...
+*************
+65.
+şahsen etrafımda sıkça rastladığım bir olgudur. ülkenin adalet, eşitlik, işi ehline verme gibi soyut değerlerini kaybetmesi, ortadoğululaşma gibi nedenlerle olmakta. gördüğüm kadarı ile yurtdışının cazip yanlarından çok, ülkenin kötü durumundan dolayı bunlar olmakta.
+*************
+66.
+her meslek dalından akin akin beyin göçü verdiğimizi anlamamı sağlamış başlık.doktorlarin terki,mühendislerin,işçilerin,öğrencilerin ,yazilimcilarin ,elektrikcinin...
+*************
+67.
+gitsinler. yazılım dediğimiz şey evrensel. bunlar gider ben işimi internet üzerinden bedavadan biraz pahalıya hintliye yaptırırım. illa bunları masada oturtmak zorunda mıyım. web sitesi mi yapılacak, zaten bir sürü site var yapılır.
+
+yani bu ibnelere muhtaç değilsiniz, siktir olsun gitsinler dediğim durum. sanki çok büyük yazılım ortaya koyan yazılımcı çıktı. sanırsın hepsi mark zuckemberg, bill gates. gidin gidin sizin yeriniz dolar.
+
+edit: (bkz: türkiye'den büyük yazılım firması çıkmama nedeni)
+*************
+68.
+gidenlerden biride ben... kalıp ne yapacaktım haftanın 6 günü çalışıp 2000 tl maaş mi alacaktım.
+
+şimdi bmw 520 g30 kasa alıyorum. türkiye’de kalsak lastiğini alamazdım amq.
+
+zorunlu edit: mesaj kutuma tecavüz ettiniz.
+anlatayım,
+
+bir çok soru sorulmuş nasıl gittin, kim sponsor oldu vs.
+
+sponsorum gayretim, öz güvenim ise kaderimdi, unutmamak gerek ki gayrette kadere aşıktır.
+
+yaşım 28 olacak 10 gün sonra,abi deyip yaşlı tribine soktunuz beni...
+
+afrika’da okudum senegal’de 1 yıl fransızca 3 yıl bil. müh. ülke me döndüm herkes afrika’da üni mi okunur dedi, iş vermedi bir şekilde staj buldum yaptım (itü arı 1 ) sonra iş buldum ankara’da kadın bana 2500 veriyordu sebep tecrübe yok. ya projeler yaptık deli kod yazdık xxxx hanımefendi , yok olmaz dedi işine gelirse. tamam dedik başladık haftanın 7 günü çalışıyorduk amq gönderdiler erzurum’a hastane kurulacak, gece nöbetleri vs. kız arkadaşıma, tr ye gel dedi ben gelmem avusturya’ya o kadar ısrar ettim. sebebi ise almanca öğrenerek kaybedeceğim vaktimi türkiye’de kendi alanımda daha fazla ilerleyebilirdim . en son hafta sonu çalışmamıza ek mesai vs.hiç bir şeyin olmamasından ötürü istifa ettim avusturya’ya geldim.
+
+burda iş görüşmeleri vs yaptım microsoft, atos gibi büyük firmalarla görüştüm tek sıkıntı dil görüşmeler ingilizce oluyor ama adam diyor müşterilerimiz alman, iş ortamında ise sorun teşkil edebilir. dedim tamam oturdum günde 7-8 saat almanca çalıştım markette çalıştım 5.30 kalkıyordum akşama kadar, havalimanına girdim, über şöförü olarak çalıştım ama eve geldiğimde çalışmayı ihmal etmedim, özelden projeler aldım unutmamak için, hep üzerine bir şey koymak için günlük 5 saat uyuyordum, havalimanında işe girdim 6 ay çalıştım sonra ise çıktım şimdi ki işime girdim adam bildiğin avusturyalı (biraz türklere karşı ön yargılı olurlar ) 1.5 yılda almancam bu dedim yaptıklarımda bu dedim. ben seninle çalışmak istiyorum dedi. bir çok türk’le tanıştım 20 yılda almanca öğrenemeyenler var , sen ise 1.5 yıla bu kadar şey sığdırmışsın seni firmamda istiyorum.
+
+başladık gidiyoruz, yaş 28 bir çok işte çalıştım ama sonunda gemiyi karaya oturttuk. bitti mi bitmedi. fransa’da master var 3 ay sonra başvuru için gidip görüşeceğim.
+
+yani arkadaşım çalışacaksın ve ülkeden çıkmak istiyorsan dil öğren gerisi gelir. dil bu işin kilit noktası. hintliler, pakistanlılar şunlar bunlara bakma kendine bak.
+
+nasıl çalıştın vs soran türk kaynaklardan elinizden geldiğince uzak dur.
+
+sınıf arkadaşım istanbul’da oda bm ye çalışıyor evinden. 2 türk bitirdik 2 mizde iyiyiz. boğaziçi odtü var ülkemizde onlar ülkedeki firmalara yeter.
+
+edit: yazım hatası
+*************
+69.
+avrupa aldığı evi arabayı türkiyede bir ömür çalışıp alacağı için mantıklıdır.
+*************
+70.
+yazilimcilar yurtdisina gidiyor cunku gidebiliyorlar.
+*************
+71.
+ülkenin politik sebepleri, gelecek kaygısı, güvenlik riskleri, yozlaşma, ekonomik sebeplerden ziyade başka problemlerden biriside yapılan işlerle ilgili tatmin duyulmamasıdır.
+
+örneğin türkiye'de doğru dürüst yapay zeka alanına yatırım yapan firma/girişimci yok. hep gündelik yüzlerce örneği olan yazılımlar yapılıyor ve bunların da kaliteleri çok düşük. yazılım kalite kriterleri uygulanmaması yazılımcıyı bıktırıyor. mümkün olduğunca yapılan işin çabuk bitmesi ve parasının alınması isteniyor.
+
+bu tarz durumlar yazılımcı için işi bırakma sebebi. aynı trafikteki gibi, herkes aceleci ve dikkatsiz şekilde ilerliyor. bunlar yazılımcının tatmini açısından ciddi bir motivasyon sorunu.
+
+yurtdışında bu iş yapma şekli benimsenmiyor. kalite algısı daha yüksek. bu yazılımcı için paradan ziyade yaptığı işi benimseme duygusunu oluşturuyor.
+*************
+72.
+şimdi bu arayışlar içerisinde olan ve köşeden dönmüş hatta avusturyaya haftaya mülakata gidecek biri olarak gayet net tesbitler yapabilirim
+
+1)hayat kaliteniz düşer orda herşey pahalı olayı bir şehir efsanesidir. maasınız en az iki katına cıkar alım gücünüz sabit kalır. kaldı ki saçma sapan vergiler ödeyip 1 lira eden seyi 2 liraya almazsınız.
+
+2)çalışma ortamı çok daha profesyoneldir genelde scrum teamlerden olusur yazılım ekipleri.
+
+3) aslında birçok sayılan ekstra umrumda değildir. su ucuz yasam kalitesi vs fasarya. benim asıl niyetim 5-6 sene kalıp 2. bir vatandaşlık almak ülkenin durumu malum.(avusturya vatandaslık icin cok iyi bir secim değil ama cagırdılar gidiyoruz bakalım mülakata)
+*************
+73.
+(bkz: kişiye göre değişir)
+(bkz: türkiye'den siktir olup gitmek/#71618839)
+*************
+74.
+şunu açık ve net bir şekilde söyleyim, bu durumda yabancı ülkelerinden bizim ülkeden en son alacağı yazılım elemanıdır, şu da bir gerçekki yazılımlım programı ve işletim sistemleri abd markalı ve bunlar sürekli güncelliniyo yani bizdeki tüm bilgileri düzenli alıyorlar, onlar bize yazılımcı gönderir yine bizden çok fazla yazılımcı istemezler sözün kısacası yerli bir yazılım programı bir bilgisayar dili şart.
+*************
+75.
+tersi de vardır,
+
+evet yazılım sektöründeyim, evet bir iki ay önce amerikadan türkiyeye döndüm, evet geri gitmiyor ve türkiyede kalıyorum ve bir süre daha kalmaya da devam edeceğim, evet tanıştığım görüştüğüm kimse kalmamış artık, çoğu yurtdışına gitmiş (hatta bazılarına ben sebep olmuşum) oysa ben sırf bu muhabbet için gelmiştim, umarım kafa dengi birilerini bulabilirim
+*************
+76.
+talebi çok ve dil bariyerinin minimum olması sebebiyle yazılımcıların ön plana çıkması durumudur. halbuki muhasebecisinden, öğretmenine keşke yapabilsem demekte.
+
+zaten üniversite hayatını yurtdışı değişim programlarıyla geçirmiş güruh büyük oranda üniversitesi biter bitmez bir şekilde kaçıyor. bu şekilde bir deneyim elde etmemiş, yabancı kültür tanımamış ve yabancı ülkede birkaç haftadan fazla yaşamamışlar içinse yurtdışında yapılabilecek en kolay mesleklerden birisi yazılımcılık. he bir de dijitalleşen dünyanın ihtiyaçları bu yolu kolaylaştırıyor.
+
+hayat standartlarının düşmesi konusunda ise, birkaç yıllık deneyimi olan bir yazılımcı sabah akşam mesai nedir bilmeden çalışıp, belki üstüne birkaç freelance iş yapıp aylık 7-10bin tl - tr. asgari*5 - kazanç elde edebilir diyelim. ama bu kişi almanyaya 3 bin euro - alm. asgari*2 - maaşla gitmeyi kabul edebilir. sonuçta karşılığında daha iyi yaşam standartları, daha özgür bir alan ve daha adil iş hayatı alacak. asgari ücretin 5-6 katını kazanmayı bırakıp 2 asgari ücretle geçinmeyi yeğleyecek yüzbinler var.
+*************
+77.
+#include "stdafx.h"
+#include "turkey.h"
+
+void stayorleave(m_blifequality, m_bfreedom, iiq)
+{
+bool bstay = false;
+
+if (iiq <= 60) // intelligence power
+{
+bstay = true;
+return;
+}
+
+// todo: add salary & purchasing power, use int instead of bools (too lazy todo rn)
+bstay = !(m_blifequality && m_bfreedom);
+
+fuckoff(bstay);
+}
+
+--- ---
+
+hadi eyv.
+
+--- ---
+
+edüt: shorthand tavsiyesi icin adli yazara tesekkurler.
+*************
+78.
+(bkz: so long and thanks for all the fish)
+*************
+79.
+şşş hayat çok mu güzel lan? diye sorgulatan durumdur.
+
+ayrıca bunu yapan arkadaşları en kalbi hislerimle tebrik eder muvaffakiyetlerinin devamını cenabı rabbülaleminden niyaz ederim efendim.
+
+mazide yediğimiz hurmaların neticesinde yaptığım tercihleri ve edindiğim mesleği sorgulamak durumunda kalmaktan hicap duymama vesile oldular sağolsunlar.
+
+neyse vatan sana canım feda mı diyorduk,bi şeyler diyoduk bu tip durumlarda avunmak için neydi o?
+
+hayır ağlamıyorum gözüme biraz çaresizlik kaçtı.
+*************
+80.
+1,5 sene önce hollanda’ya giderek benim de yaptığımdır.
+
+anlamıyorum, birçok kişi -buna gittiklerini söyleyen yazılımcı arkadaşlar da dahil- daha düşük maaşa/standarda gittiklerinden bahsetmiş. benim tecrübem aksi yönde oldu. daha iyi maaşa, kadın olduğum için daha değersiz görülmediğim daha iyi bir iş ortamına, başkent olmasına rağmen daha trafiksiz daha gürültüsüz ama daha fazla eğlenceli bir şehre, elbise ya da etek giydiğim zaman öküz gibi bakılmadığım rahatsız edilmediğim bir kültüre geldim.
+
+kadın olduğum için erkek meslektaşlarımdan daha düşük aldığım, elbise giydiğim zaman tacize uğradığım, 6:30’da uyan/1.5 saat trafik/9 saat çalış/1,5 saat trafik/yemek ye/bulaşık yıka/uyu/uyan/tekrarla düzeninde ruh sağlığımı kaybettiğim, her sabah ağlayarak otobüs çarpsa allah canımı alsa da kurtulsam dediğim bir hayattan yukarıda bahsettiğim hayata zıpladım. ben bu standartlar için türkiye’de kazandığım paranın yarısını kazanmayı göze almışken, daha fazla maaş teklifi alarak üstelik...
+
+fırsatı olan (özellikle hemcinslerim) beklemesin, ulu manitu geri döndürmesin. amen.
+*************
+81.
+aslında türkiye'den yurt dışına verilen yazılım hizmetlerinde önemli oranda vergi avantajı var.
+
+kur etkisi ile beraber türkiye'den bu şekilde hizmet veren bir çok kişi biliyorum.
+
+vergi avantajları
+*************
+82.
+corona'dan sonra yazilimcilarin ipini cekicekler. relocation eskisi kadar kolay olmayacak. sirketler remote calistirmayi ogrendiler artik. cok da kesin konusmak istemiyorum ama acaba yazilimcilarin altin cagi kapaniyor mu?
+*************
+83.
+yazılımcılar evlerinden dışarı mı çıkıyorlar ki memleketi terk etsinler.
+*************
+84.
+remote çalışma, yazılımcılar için yeni icat edilmedi.
+20 yıllık yazılım sektörünün tamamına yakınında remote çalışma son derece aktifti.
+
+ancak remote çalışma işi sadece "kod operatörleri" için geçerli diye düşünüyorum. yazılımcılar için değil. önyargım da budur.
+*************
+85.
+terk etmesi.
+
+kibire bak..
+
+oğlum 2bin eur/ay maaş ile iş ilanı çıktığımızda bile cv yağmuruna tutuyorsunuz buraya kapağı atmak için.
+
+buna terk etmek değil de “n’olur beni de alın en köpek ben olucam sözzzz” demek diyelim istersen.
+*************
+86.
+daha once bir yerlerde sadece remote calismanin yazilimcilarin performansini dusurdugunu okumustum. covid19'dan dolayi remote calismak artti ama 1 yila kalmaz ofislere donulur diye dusunuyorum*
+*************
+87.
+saray ahalisi 1 milyar milyon bin yazılımcı yapacak ya, eski yazılımcıları abd ye yolluyoruz. ikinci el olarak.
+*************
+88.
+eğer bu yazılımcılar geldikleri ülkelerde helal et peşinde koşup, erdoğan taraftarlığı yapcaklar ise kendileri gibi diğer türk erdoğancı ya da pakistan ülkelerden gelen müslüman kardeşleri ile pilav günü yaparlar.
+
+ortadoğulu’ya özel edit : yahudi’nin de koşer peşinde koşan, şabatta asansör düğmesine bile basamayan sığırlarını küçümserim. ona da o zaman avrupa’da ne işin var derim. insanların ne yediğine karışmak değil de kafa yapısını eleştirmek olur. sizin yüzünüze gülen ve dininize saygı duyduğunu düşündüğünüz avrupalılar da arkanızdan dedikodunuzu yaparlar.
+*************
+89.
+belki insanlarin ne yiyip ictigine karisan aptallarla aynı ülkede yaşamak istemediklerindendir. kaldi ki bu aptallar yurtdisinda yasiyorsa durum daha da vahim cunku elestirdikleri seyin kendisi haline gelmisler demektir. cunku o ulkelerde kimse baskasinin yedigine ictigine karismaz, ancak bizim mezopotamya esegi, helal et bulmak isteyen insana karisma hakkini kendisinde bulur. bu aptalların koşere laf attığı görülemez çünkü götü yemez. yahudi adamın götünden kan alır.
+*************
+90.
+kaçın kurtarın kendinizi. hintlisi, arabı, bilmem nesi ülkelerinden kurtulup güzel ülkelere gidiyor. hukuk, ekonomi, toplumun ahlak konusunda gelişmiş olması vesayre tam bir cennet. 3000-4000 liraya size köpek muamelesi yapacaklar burada kalırsanız, oraya giderseniz kat kat ekonomik anlamda rahat olacaksınız. ek olarak hukuk, güzel toplum, sayamadığım aklıma gelmeyen güzel özellikler...
+*************
+91.
+erbapları genelde inşaat sektörüne girmiş kendilerini yok etmiştir. şimdi aklı ve imkanı olanlar evlenmeyip bekar yaşayanlar uzayıp gidiyorlar. vallahi öyle akp karşıtı olay değil bu. gidiyorlar çünkü chp bilmem ne siyasetinden idelojisinden hiç bir umutları kalmamış adamların.
+adam kalkıp yapay zeka kodları yazmaya başlasa ne var ya onda if else yazıyorsun peh der dalga geçerler küçümserler.
+gerçekten bu ülkenin hiç bir kademesinden hiç bir şey olmaz. bu nesil birleşirse bu halkında bu ülkeninde kaderi değişir. ama umurlarında değil ve bu konuda yüzde iki milyar haklılar abi.
+bakın burası çok önemli "hiç bir şeyden umutları kalmamış" çok iyi okuyun...
+*************
+92.
+ülkeyi yapabilen herkes terk ediyor. yazılımcılar geç bile kalmış...
+*************
+93.
+sadece yazılımcılarda değil doktorlarda da var o istek, kendimden biliyorum
+*************
+94.
+siktir git diyen gerzeklere acıyorum cidden.
+tanım: ülkemizde iş ve işçi sömürüsü, adaletsizlik, pahalılık ve eşitsizlik olduğu sürece ülkeyi muasır medeniyetler seviyesine çıkaracak insanların, haklı olarak yapacağı eylemdir.
+milliyetçilik falan yok kardeşim. ülkeyi sevmek falan, bunları geç. bunlar zamanında senin gibi koyunlar için sana verilen gazlardan birisi. bu ülkede senin gibi salaklar sayesinde bu düzen devam ediyor. ülkemizin mantalitesi şu; sen bu işi istemiyorsan bu şartlarda hatta daha ağırında bu işi yapacak birini elbet buluruz. umarım bulamayacak duruma gelirsiniz ve işe alacağınız adamlar sizi maymun eder.
+*************
+95.
+tanıdığım tüm yazılımcılar gitti.
+yalnızca ben kaldım.
+
+bir yanım git diyor, diğer yanım gitme. git diyen yanımı yukarıda anlatmışlar.
+
+gitme diyen yanımı da ben burada anlatayım her yanıyla.
+arkada bir ülke bırakmış olmak, doğduğun yerleri vs. bırakmış olmak gerçekten kötü bir his. ne olursa olsun. birçok insan kendi ülkesini bırakıp gitmek istemez. yediğin yemekten tut, içtiğin suya, havanın kokusuna kadar her şeyin başka olduğu bir ülkede yaşamaya gidiyorsun neticede.
+
+ve gittiğin ülkede kalifiye olsan bile sen bir göçmensin aslında, ve herkes bal gibi biliyor ki ülkendeki berbat koşullardan kaçıp gittin. yoksa oraya gidip bir araştırmanın parçası, google facebook'un kadrosunda çalışan bir yazılımcı değilsin. ucuz iş gücü olarak, avrupa'nın orta boy şirketlerinde bir göçmen olarak işe alındın. ve sosyal statün de ne yaparsan yap budur. biraz fazlası değil.
+
+ben bir yazılımcı olarak burada statü sahibiyim. daha yalıtılmış bir çevrede, daha yalıtılmış sokaklarda yaşıyorum.
+
+yarın amerika'ya veya avrupa'ya gittiğimde ise statüm ülkesindeki kötü koşullardan kaçmış kalifiye bir göçmen olacak. sosyal statü olarak amerikadaki meksikalı gibi olacaksınız ve artık o çevre insanlarından birisi olacaksınız. evet daha ucuza et yiyeceğim, evet ucuz bilgisayar alacağım, yarım aylık maaşımla 1 ay tatil yapabileceğim vs.
+
+ama ya statüm?
+veya sosyal hayatım? arkadaş çevremi, ailemi ve burada yıllar boyunca elde ettiğim statüleri yok etmeye değer mi. işte bu sorunun cevabına göre gidin veya gitmeyin.
+
+ben şu aşamada kalmayı tercih ediyorum.
+hem yukarıdaki manevi sebeplerden.
+hem de ülkede yazılımcı kalmadığı için, her geçen gün değerim arttığı için.
+
+orada işçinin 1700-2000 euro aldığı ortamda 3000 euroluk (5400 falan yazan olmuş ama o iş öyle olmaz avrupada. en fazla brüt 5400 verirler) yazılımcı olacaksınız.
+
+burada ise yöneticilerin 10.000 lirayı zor aldığı ortamda saatinize rahat rahat 150tl yazdırabileceksiniz.
+
+ben bu yüzden kalıyorum.
+*************
+96.
+mevzu bahis kişilerin üniversiteden yazılımla ilgili alanlardan diplomasının olma zorunluluğunu merak ettiğim konu.
+
+hobi olarak kodlayanlar bu kategoriye dahil olabilmek adına ne yapmalılar?
+*************
+97.
+yetismis insanlarin ulkeden siktirip gitmesinin iyi bisey olmadigini tedavi olamayinca, sanayin ilerlemeyince,bunlardan dolayia disa daha bagimli olup herhangi bi dolar calkantisinda ekmek fiyatlari artti diye aglamaya baslayinca anlayacaksiniz.gerci bunu dusunebilmek icin yeterli analitik zekanizin oldugunu da zannetmiyorum.olan yine yetismis ama ulkesi icin cabalayanlara olacak ona uzuluyorum
+*************
+98.
+(bkz: beyin göçü)
+
+doğru olanı yapıyorlar.
+*************
+99.
+yakında yapmayı planladığım düşünce.
+*************
+100.
+(bkz: #83220746) bu entryde alenen yalan söylenmektedir.
+"ucuz iş gücü olarak, avrupa'nın orta boy şirketlerinde bir göçmen olarak işe alındın. ve sosyal statün de ne yaparsan yap budur. biraz fazlası değil."
+
+bu paragraf alenen yalan. bu arkadaşın muhtemelen diploması yok ve avrupa'ya gidebilecek durumda değil. avrupa'da startup'ta bile işe girseniz maaşınız ülke ortalamasının çok çok üzerindedir. ilgili ülkenin ortalama maaşları ile yazılımcı maaşlarını google'dan aratmanız yeterli.
+*************
